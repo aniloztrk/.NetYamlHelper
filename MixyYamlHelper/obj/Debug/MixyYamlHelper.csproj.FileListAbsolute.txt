@@ -1,0 +1,9 @@
+/Users/macbookpro/RiderProjects/MixyYamlHelper/MixyYamlHelper/bin/Debug/MixyYamlHelper.dll
+/Users/macbookpro/RiderProjects/MixyYamlHelper/MixyYamlHelper/bin/Debug/MixyYamlHelper.pdb
+/Users/macbookpro/RiderProjects/MixyYamlHelper/MixyYamlHelper/bin/Debug/YamlDotNet.dll
+/Users/macbookpro/RiderProjects/MixyYamlHelper/MixyYamlHelper/bin/Debug/YamlDotNet.xml
+/Users/macbookpro/RiderProjects/MixyYamlHelper/MixyYamlHelper/obj/Debug/MixyYamlHelper.csproj.AssemblyReference.cache
+/Users/macbookpro/RiderProjects/MixyYamlHelper/MixyYamlHelper/obj/Debug/MixyYamlHelper.csproj.CoreCompileInputs.cache
+/Users/macbookpro/RiderProjects/MixyYamlHelper/MixyYamlHelper/obj/Debug/MixyYamlHelper.csproj.CopyComplete
+/Users/macbookpro/RiderProjects/MixyYamlHelper/MixyYamlHelper/obj/Debug/MixyYamlHelper.dll
+/Users/macbookpro/RiderProjects/MixyYamlHelper/MixyYamlHelper/obj/Debug/MixyYamlHelper.pdb
